@@ -1,0 +1,22 @@
+{
+  "name": "webpcss",
+  "version": "0.0.1",
+  "description": "use webp img",
+  "main": "index.js",
+  "scripts": {
+    "test": "(none)"
+  },
+  "repository": {
+    "type": "git",
+    "url": {
+      "type":"git",
+      "url":"https://github.com/hpfree/webpcss"
+    }
+  },
+  "keywords": [
+    "webp",
+    "img"
+  ],
+  "author": "894634650@qq.com",
+  "license": "ISC"
+}
